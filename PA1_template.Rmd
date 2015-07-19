@@ -235,3 +235,5 @@ In contrast, the weekend activity starts more gradually and does not reach 50 st
 
 Therefore, we can conclude that this individual has two **distinct patterns of activity corresponding to whether it is a weekday or a weekend day**.  
 
+
+
